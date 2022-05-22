@@ -1,0 +1,22 @@
+{
+  "name": "server_web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivallemol2018/servidor_express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivallemol2018/servidor_express/issues"
+  },
+  "homepage": "https://github.com/ivallemol2018/servidor_express#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
